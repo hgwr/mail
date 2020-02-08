@@ -11,7 +11,7 @@ if defined?(RUBY_ENGINE) && RUBY_ENGINE == 'jruby'
 end
 
 group :test do
-  gem "ZenTest",    "~> 4.4.0"
+  gem "ZenTest",    "~> 4.12.0"
   gem "rake",       "~> 0.8.7"
   gem "bundler"
   gem "rspec",      "~> 1.3.0"
