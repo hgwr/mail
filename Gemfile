@@ -12,7 +12,7 @@ end
 
 group :test do
   gem "ZenTest",    "~> 4.4.0"
-  gem "rake",       "~> 0.8.7"
+  gem "rake",       "~> 13.0.4"
   gem "bundler"
   gem "rspec",      "~> 1.3.0"
   gem "diff-lcs"
